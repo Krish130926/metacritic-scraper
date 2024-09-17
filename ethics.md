@@ -29,4 +29,4 @@ Web scraping operates in a grey area when it comes to legality, depending on the
 
 ## Conclusion
 By carefully considering and addressing these ethical issues, this project seeks to strike a balance between data accessibility and respect for the rights of website owners and users. It is essential that we use scraping responsibly and ethically to ensure the sustainability of open data access.
-![image](https://github.com/user-attachments/assets/8555147a-9658-47d3-a6c0-fc91330c30c7)
+
