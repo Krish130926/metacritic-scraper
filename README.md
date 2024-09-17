@@ -23,11 +23,11 @@ bash
 Install Requirements
 Ensure you have Python installed. Then, install the required Python libraries.
 pip install -r requirements.txt
-![image](https://github.com/user-attachments/assets/236a5f1f-6bd5-4b25-96e1-3326245dc528)
+
 Run the Scraper
 Execute the scraper by running the Python script:
 python scraper.py
-![image](https://github.com/user-attachments/assets/949eabcb-d1fa-484e-9263-64f96e4d382c)
+
 
 
 Additional Notes:
@@ -43,7 +43,7 @@ File Structure:
 ├── requirements.txt
 ├── scraper.py
 └── example_plot.png  # Optional: an example visualization if needed
-![image](https://github.com/user-attachments/assets/42696dba-fbe8-43a0-a084-5ea7852e4a43)
+
 
 
 
