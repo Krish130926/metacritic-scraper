@@ -14,10 +14,12 @@ Features
 - Analyze the average metascore and user score of the top albums.
 - Rate-limiting implemented to prevent overwhelming the server.
 
-How to Run
+- How to Run
 
 Clone the Repository
-```bash
+bash
+
+
 Install Requirements
 Ensure you have Python installed. Then, install the required Python libraries.
 pip install -r requirements.txt
@@ -42,6 +44,8 @@ File Structure:
 ├── scraper.py
 └── example_plot.png  # Optional: an example visualization if needed
 ![image](https://github.com/user-attachments/assets/42696dba-fbe8-43a0-a084-5ea7852e4a43)
+
+
 
 
 
